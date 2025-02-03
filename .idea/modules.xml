@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Builder Pattern/Builder Pattern.iml" filepath="$PROJECT_DIR$/Builder Pattern/Builder Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chain of Responsibility Pattern/Chain of Responsibility Pattern.iml" filepath="$PROJECT_DIR$/Chain of Responsibility Pattern/Chain of Responsibility Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/My-Patterns.iml" filepath="$PROJECT_DIR$/.idea/My-Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proxy Pattern/Proxy Pattern.iml" filepath="$PROJECT_DIR$/Proxy Pattern/Proxy Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strategy Pattern/Strategy Pattern.iml" filepath="$PROJECT_DIR$/Strategy Pattern/Strategy Pattern.iml" />
+    </modules>
+  </component>
+</project>
